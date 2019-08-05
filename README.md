@@ -1,4 +1,4 @@
-# coh-farming-stats
+# CoH Farming Stats
 Determine how efficient your city of heroes farming is
 
 Requirements:
