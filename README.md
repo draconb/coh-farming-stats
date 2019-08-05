@@ -1,10 +1,10 @@
 # CoH Farming Stats
 Determine how efficient your City of Heroes farming is
 
-Requirements:
+## Requirements:
 This is a quick script which requries the use of [LinqPad 5](https://www.linqpad.net/Download.aspx) which is an amazing tool. At some point I might make a standalone version but for now it uses linqpad for the output
 
-Usage:
+## Usage:
 Enable chat logging in City of Heroes (/logchat to toggle in game or in the settings)
 
 Download the linqpad script "CoH_XpInfParsing.linq" from the [source here](https://raw.githubusercontent.com/draconb/coh-farming-stats/master/CoH_XpInfParsing.linq) and then import it into linqpad.
